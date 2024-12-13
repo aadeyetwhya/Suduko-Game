@@ -1,0 +1,10 @@
+
+			
+The objective is to fill a 9×9 grid with digits in such a way that each
+column, each row,and each of the nine 3×3 sub grids (also called "boxes",
+"blocks", or "regions") contains all of the digits from 1to 9 and the
+digit shouldn't be repeated in its respective row,column and box.
+Press 'W' to move up
+      'S' to move down
+      'A' to move left
+      'D' to move right.
